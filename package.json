@@ -1,6 +1,6 @@
 {
-  "name": "guessing-game-practice",
-  "version": "1.0.0",
+  "name": "fs-22-guessing-game-practice",
+  "version": "1.0.1",
   "description": "num guessing game",
   "main": "index.js",
   "type": "module",
